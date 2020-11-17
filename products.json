@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "productName": "Realme 7",
+      "description": "The Realme 7 brings in three main upgrades over the Realme 6 — a new SoC, a bigger battery, and a new primary camera sensor. It features a mirror-split design, which creates some interesting patterns when light hits it.",
+      "manufacturer": "Realme",
+      "price": 20000,
+      "processor": "Snapdragon",
+      "os": "Android",
+      "views": 83,
+      "image": "realme.jpg",
+      "id": 7
+    },
+    {
+      "id": 13,
+      "productName": "Oneplus 7T",
+      "description": "Oneplus 7T",
+      "manufacturer": "Oneplus",
+      "price": 34999,
+      "processor": "Snapdragon",
+      "os": "Android",
+      "image": "oneplus.png",
+      "views": 19
+    },
+    {
+      "id": 19,
+      "productName": "Samsung S20 Ultra",
+      "description": "Samsung S20 Ultra",
+      "manufacturer": "Samsung",
+      "price": 97999,
+      "processor": "Exynos",
+      "os": "Android",
+      "image": "samsung.jpg",
+      "views": 11
+    },
+    {
+      "productName": "Samsung Galaxy M01 ",
+      "description": "Samsung Galaxy M01 smartphone was launched on 2nd June 2020. The phone comes with a 5.71-inch touchscreen display with a resolution of 720x1560 pixels and an aspect ratio of 19.5:9. Samsung Galaxy M01 is powered by an octa-core Qualcomm Snapdragon 439 processor. It comes with 3GB of RAM. The Samsung Galaxy M01 runs Android 10 and is powered by a 4000mAh battery.",
+      "manufacturer": "Samsung",
+      "price": 7999,
+      "processor": "Qualcomm Snapdragon 439",
+      "os": "Android",
+      "views": 1,
+      "image": "samsung.jpg",
+      "id": 20
+    },
+    {
+      "productName": "Realme 7 Pro",
+      "description": "The Realme 7 Pro is the spiritual successor to the Realme 6 Pro, boasting of big upgrades such as an AMOLED display, stereo speakers, and 65W fast charging.",
+      "manufacturer": "Realme",
+      "price": 19999,
+      "processor": "Qualcomm Snapdragon 720G",
+      "os": "Android",
+      "views": 31,
+      "image": "realme.jpg",
+      "id": 21
+    },
+    {
+      "productName": "Samsung Galaxy M31s",
+      "description": "You get an Infinity-O AMOLED display, a higher capacity bundled charger, and a slightly tweaked design. 6,000mAh battery",
+      "manufacturer": "Samsung",
+      "price": 18499,
+      "processor": "Samsung Exynos 9611",
+      "os": "Android",
+      "views": 17,
+      "image": "samsung.jpg",
+      "id": 22
+    },
+    {
+      "productName": "Motorola One Fusion+",
+      "description": "The One Fusion+ is available in one configuration only, with 6GB of RAM and 128GB of storage. You do have the option to expand storage further using the hybrid dual-SIM tray. Motorola has also packed in a 5,000mAh battery, and this phone comes with an 18W TurboCharger.",
+      "manufacturer": "Motorola",
+      "price": 16499,
+      "processor": "Qualcomm Snapdragon 730G",
+      "os": "Android",
+      "views": 36,
+      "image": "moto.png",
+      "id": 23
+    },
+    {
+      "productName": "Poco X2",
+      "description": "Poco has packed in a 4,500mAh battery and you get a 27W charger in the box. This phone sports a quad-camera setup at the back and we noticed that the photo quality in daylight is quite good. Low-light photo quality was also relatively impressive but not as detailed as during the day. Low-light video quality wasn't as good.",
+      "manufacturer": "Xiaomi",
+      "price": 20000,
+      "processor": "Qualcomm Snapdragon 730G",
+      "os": "Android",
+      "views": 19,
+      "image": "xiaomi.jpg",
+      "id": 24
+    },
+    {
+      "productName": "Redmi Note 9 Pro Max",
+      "description": "The Redmi Note 9 Pro Max has a side-mounted fingerprint scanner that lets you unlock it quickly. Sticking to current trends, the Redmi Note 9 Pro Max has four rear cameras but the module protrudes quite a bit.",
+      "manufacturer": "Xiaomi",
+      "price": 15999,
+      "processor": "Qualcomm Snapdragon 720G",
+      "os": "Android",
+      "views": 22,
+      "image": "xiaomi.jpg",
+      "id": 25
+    },
+    {
+      "productName": "Realme C3",
+      "description": "This smartphone has a 16.5-centimetre (6.5) HD+ mini-drop fullscreen, along with a screen-to-body ratio of about 89.8%, to deliver sharp and immersive visuals for a more entertaining viewing experience.",
+      "manufacturer": "Realme ",
+      "price": 7999,
+      "processor": "Helio G70",
+      "os": "Android",
+      "views": 6,
+      "image": "realme.jpg",
+      "id": 26
+    },
+    {
+      "productName": "Redmi 9i",
+      "description": "Work or play, the Redmi 9i is an ideal companion that helps you go through your everyday tasks with ease. With a huge HD+ IPS display, the powerful Helio G25 processor, a massive 5000 mAh battery, two powerful cameras, and a ton of other innovative features, the Redmi 9i is ready to take any challenge that comes its way.",
+      "manufacturer": "Xiaomi",
+      "price": 8299,
+      "processor": "MediaTek Helio G25 Processor",
+      "os": "Android",
+      "views": 10,
+      "image": "xiaomi.jpg",
+      "id": 27
+    }
+  ],
+  "users": [
+    {
+      "firstName": "naruto",
+      "lastName": "uzumaki",
+      "location": "Andhra Pradesh",
+      "mobileNo": "8978688881",
+      "password": "konoha1",
+      "id": "naruto@konoha.com"
+    },
+    {
+      "id": "sasuke@konoha.com",
+      "password": "konoha2",
+      "firstName": "sasuke",
+      "lastName": "uchiha",
+      "location": "india",
+      "mobileNo": "8321562782"
+    },
+    {
+      "id": "sakura@konoha.com",
+      "firstName": "sakura",
+      "lastName": "haruno",
+      "location": "Hidden Leaf Village",
+      "mobileNo": "8321562762",
+      "password": "konoha3"
+    },
+    {
+      "id": "kakashi@konoha.com",
+      "firstName": "kakashi",
+      "lastName": "hatake",
+      "location": "Land of Fire",
+      "mobileNo": "8321562792",
+      "password": "konoha4"
+    },
+    {
+      "id": "shikamaru@konoha.com",
+      "firstName": "Shikamaru",
+      "lastName": "Nara",
+      "location": "Hidden Leaves",
+      "mobileNo": "8321562784",
+      "password": "konoha5"
+    }
+  ]
+}
